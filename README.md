@@ -18,8 +18,10 @@ R616on@gmail.com
 
 ## Профессиональный опыт
 
-- 2013-2021, ПАО “Россети центр” административные, инженерные должности.
-- 2020 - 2021, Учебные проекты на курсе “Frontend разработчик с нуля” в Нетологии (https://netology.ru/programs/front-end#/)
+- 2013 — по настоящее время, ПАО “Россети центр” инженер.
+- Июль 2021 — по настоящее время HTML-верстальщик "Klishin Agency".
+
+- 2020 - 2022, Учебные проекты на курсе “Frontend разработчик с нуля” в Нетологии (https://netology.ru/programs/front-end#/)
 
   1\. Вёрстка сайта на HTML и CSS, научился верстать страницы на HTML и CSS и вносить изменения в существующую вёрстку, самостоятельно сверстал лендинг. ( ссылки на github-[задание](https://github.com/r616on/adaptiv_diplom_noBem " "), [реализация](https://r616on.github.io/adaptiv_diplom_noBem/ " "))
 
@@ -35,6 +37,8 @@ R616on@gmail.com
 
   6\. Реализовал простой корпоративный чат, на веб-сокетах. (ссылки на github-[репозиторий](https://github.com/r616on/homeworks_sse-ws_client " "), [реализация](https://r616on.github.io/homeworks_sse-ws_client/ " ")) и backend (ссылки на github-[репозиторий](https://github.com/r616on/homeworks_sse-ws_server " "))
 
-  - Обучение продолжается.
+  7\. Компонент React для отслеживания расстояния пробежек. Научился работать с состояниями, формами, управляемыми компонентами, поднимать состояние до общего родителя. Компонент React для наглядного преобразованием HEX формата цвета в RGB. <strong> Два компонента на одной странице.</strong> (ссылки на [репозиторий](https://github.com/r616on/React_home-works-4-form), [github-pages](https://r616on.github.io/React_home-works-4-form/) )
 
-* Реальный лендинг сверстан мной, он мог бы быть лучше но заказчик настоял на этом варианте.( ссылки на github-[репозиторий](https://github.com/r616on/Spil_service " "), [реализация](https://r616on.github.io/Spil_service/ " "))
+- Обучение продолжается.
+
+* Реальный лендинг сверстан мной, Просто html, scss, чуть чуть js и пара готовых библиотек для отзывов и галереи.( ссылки на github-[репозиторий](https://github.com/r616on/Spil_service " "), [реализация](https://r616on.github.io/Spil_service/ " "))
