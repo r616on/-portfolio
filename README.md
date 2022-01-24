@@ -1,7 +1,10 @@
 ### Прилепский Роман Владимирович
 
-89536162754, WhatsApp  
-R616on@gmail.com
++7 953 616 27 54, WhatsApp, Telegram
+
+r616on@gmail.com
+
+Желательно удаленная работа, или офис в г.Орел, г.Калуга
 
 # Frontend разработчик
 
@@ -37,12 +40,11 @@ R616on@gmail.com
 
   6\. Реализовал простой корпоративный чат, на веб-сокетах. (ссылки на github-[репозиторий](https://github.com/r616on/homeworks_sse-ws_client " "), [реализация](https://r616on.github.io/homeworks_sse-ws_client/ " ")) и backend (ссылки на github-[репозиторий](https://github.com/r616on/homeworks_sse-ws_server " "))
 
-  7\. Компонент React для отслеживания расстояния пробежек. Научился работать с состояниями, формами, управляемыми компонентами, поднимать состояние до общего родителя. Компонент React для наглядного преобразованием HEX формата цвета в RGB. <strong> Два компонента на одной странице.</strong> (ссылки на [репозиторий](https://github.com/r616on/React_home-works-4-form), [github-pages](https://r616on.github.io/React_home-works-4-form/) )
+  7\. Компонент React для отслеживания расстояния пробежек CRUD. Научился работать с состояниями, формами, управляемыми компонентами, поднимать состояние до общего родителя. Компонент React для наглядного преобразованием HEX формата цвета в RGB. <strong> Два компонента на одной странице.</strong> (ссылки на [репозиторий](https://github.com/r616on/React_home-works-4-form), [github-pages](https://r616on.github.io/React_home-works-4-form/) )
 
 8\. Разработал SPA на **React, c хранением состояния в Redux**, отработал на практике взаимодействие с **React Router**, Redux, методами Redux Toolkit и Redux Thunk, научился хранить необходимые состояния в localStorage с помощью Redux Persist. Отработал взаимодействие с API при успешных запросах, и при сбоях. (ссылки на [репозиторий](https://github.com/r616on/React_Diploma), [github-pages](https://r616on.github.io/React_Diploma/) )
 
 Сервер так же самописный поднят на Heroku.
-**Важно! _Сервер случайным образом генерирует задержку ответа и ошибки, вероятность ошибки 50%_**
-для демонстрации и отладки работы лоадеров и показа ошибок (ссылка на [репозиторий](https://github.com/r616on/React_Diploma_backend))
+(ссылка на [репозиторий](https://github.com/r616on/React_Diploma_backend))
 
-- Обучение продолжается.
+- Обучение на Нетологии окончено работаю над выпускным дипломом.
